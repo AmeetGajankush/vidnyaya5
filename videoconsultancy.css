@@ -95,7 +95,7 @@ header {
   text-align: center;
 }
 .BannerContainer {
-  background-image: url(media/images/videoconsltbanner.png);
+  background-image: url(videoconsltbanner.png);
   width: 85%;
   height: 375px;
   margin: 2rem auto;
