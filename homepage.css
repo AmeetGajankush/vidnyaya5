@@ -95,7 +95,7 @@ header {
 
 /* Banner Styles */
 .BannerContainer {
-  background-image: url(media/images/banner.png);
+  background-image: url(banner.png);
   width: 85%;
   height: 375px;
   margin: 2rem auto;
